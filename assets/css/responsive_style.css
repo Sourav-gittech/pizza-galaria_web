@@ -63,6 +63,14 @@
 
     /* carousel design  */
     .testimonial-section .carousel-item {
+        padding: 5rem 3.125rem;
+    }
+}
+
+@media (max-width: 330px) {
+
+    /* carousel design  */
+    .testimonial-section .carousel-item {
         padding: 13rem 3.125rem;
     }
 }
