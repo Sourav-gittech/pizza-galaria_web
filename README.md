@@ -29,15 +29,15 @@ This project is a frontend website for a pizza restaurant, built using **HTML**,
 ## File Structure
 
 ```
-pizza-restaurant-website/
-├── index.html          # landing page
+pizza-galaria-website/
+├── index.html                    # landing page
 ├── assets/
-  ├── css/
-  │   ├── style.css     # Custom styles
-  │   └── responsive_style.css  # Responsive styles
-  ├── js/
-  │   └── script.js        # Main JavaScript file
-  └── images/            # Restaurant images
+│   ├── css/
+│   │   ├── style.css             # Custom styles
+│   │   └── responsive_style.css  # Responsive styles
+│   ├── js/
+│   │   └── script.js             # Main JavaScript file
+│   └── images/                   # Restaurant images
 |
-└── README.md          # Project README file
+└── README.md                     # Project README file
 ```
