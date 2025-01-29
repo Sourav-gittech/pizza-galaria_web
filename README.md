@@ -1,4 +1,4 @@
-# Pizza Restaurant Website Design README 🍕
+# Pizza Restaurant Website Design 🍕
 
 ## Overview
 
