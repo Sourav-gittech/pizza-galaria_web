@@ -353,6 +353,11 @@ p {
     border-radius: 0.9375rem;
 }
 
+.explore-food #exploreFoodCard{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .explore-food .card img{
     border-radius: 15px 15px 0 0;
 }
